@@ -10,7 +10,7 @@ Allow anyone to easily watch their favorite movies, shows, and anime.
 
 This project would absolutely **not** be possible without the original developer's hard work (and to community's) into making Popcorn Time what it is today. All credit should go to them, I'm just trying to help the community :)
 
-[Disclaimer]
+[Disclaimer]()
 
 I forked the CE project to fix things that I consider to be of utmost importance, in addition to trying to make some improvements. For now, this fork is completely unstable and the instructions below are the same as found in the original project. So I strongly recommend that if you want to test the application, for now, do it from the original repository and not from here.
 

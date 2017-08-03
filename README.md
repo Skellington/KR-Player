@@ -1,6 +1,6 @@
 [Warning! Popcorntime.sh threatens your computer privacy.](http://popcorn-time.is/official-statement.html#Malware2)
 
-# [Popcorn Time Community](https://github.com/PopcornTime-CE/desktop)
+# [KR Player](https://github.com/Skellington/KR-Player)
 
 [![Join the chat at https://gitter.im/PopcornTime-CE/desktop](https://badges.gitter.im/PopcornTime-CE/desktop.svg)](https://gitter.im/PopcornTime-CE/desktop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -8,9 +8,11 @@ Allow anyone to easily watch their favorite movies, shows, and anime.
 
 ![Popcorn Time](src/app/images/icon.png)
 
-Visit the project's website at <http://popcorn-time.is>.
+This project would absolutely **not** be possible without the original developer's hard work (and to community's) into making Popcorn Time what it is today. All credit should go to them, I'm just trying to help the community :)
 
-This project would absolutely **not** be possible without the original developer's hard work into making Popcorn Time what it is today. All credit should go to them, we're just trying to help the community :)
+[Disclaimer]
+
+I forked the CE project to fix things that I consider to be of utmost importance, in addition to trying to make some improvements. For now, this fork is completely unstable and the instructions below are the same as found in the original project. So I strongly recommend that if you want to test the application, for now, do it from the original repository and not from here.
 
 ***
 

@@ -99,6 +99,6 @@ You should have received a copy of the GNU General Public License along with thi
 
 ***
 
-If you want to contact us : send pm to [samewhiterabbits](https://www.reddit.com/user/Samewhiterabbits) on reddit or [use the form](http://yify.is/index.php/blog/contact) on the yify website.
+If you want to contact us : send pm to [Skellington](https://www.twitter.com/Skellington) on Twitter.
  
-Copyright (c) 2015 Popcorn Time Community - Released under the [GPL v3 license](LICENSE.txt).
+Copyright (c) 2017 KR Player - Released under the [GPL v3 license](LICENSE.txt).

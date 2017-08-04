@@ -1,4 +1,4 @@
-KR Player - Streaming video through torrents
+Rozujo - Streaming video through torrents
 Copyright © 2017 Skellington, Popcorn Time team and the contributors
 
 If you distribute a copy or make a fork of the project, you have to credit this project as source.
@@ -21,11 +21,11 @@ If you want to contact me : wagunerusan [at] gmail [dot] com
 This project would never be possible without the incredible work of
 the community and the team responsible for creating Popcorn Time.
 
-KR Player - Streaming video through torrents
+Rozujo - Streaming video through torrents
 Copyright © 2017 Skellington, Popcorn Time team and the contributors
-KR Player is released under the GPL
+Rozujo is released under the GPL
 
-Last update: Aug 3, 2017
+Last update: Aug 4, 2017
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 

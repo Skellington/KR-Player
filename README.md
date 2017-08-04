@@ -1,6 +1,6 @@
 [Warning! Popcorntime.sh threatens your computer privacy.](http://popcorn-time.is/official-statement.html#Malware2)
 
-# [KR Player](https://github.com/Skellington/KR-Player)
+# [Rozujo](https://github.com/Skellington/Rozujo)
 
 [![Join the chat at https://gitter.im/PopcornTime-CE/desktop](https://badges.gitter.im/PopcornTime-CE/desktop.svg)](https://gitter.im/PopcornTime-CE/desktop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -101,5 +101,5 @@ You should have received a copy of the GNU General Public License along with thi
 
 If you want to contact us : send pm to [Skellington](https://www.twitter.com/Skellington) on Twitter.
  
-Copyright (c) 2017 KR Player - Released under the [GPL v3 license](LICENSE.txt).
+Copyright (c) 2017 Rozujo - Released under the [GPL v3 license](LICENSE.txt).
 
